@@ -1,2 +1,2 @@
-# glowing-parakeet
-PWA for keeping score of a Table Tennis match.
+# special-octo-spoon
+PWA for breathing.
